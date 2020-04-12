@@ -1,4 +1,4 @@
-# Introduction
+<!-- # Introduction
 
 [README in Chinese](README.md)
 
@@ -319,4 +319,4 @@ For some reason，previous interfaces could not be used, it made the project fai
 
 # License
 
-[GPL](https://github.com/bailicangdu/vue2-elm/blob/master/COPYING)
+[GPL](https://github.com/bailicangdu/vue2-elm/blob/master/COPYING) -->

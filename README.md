@@ -1,4 +1,4 @@
-webstorm 
+<!-- webstorm 
 
 shif+d转换光标的 px
 ctrl+shif+d文件的 px
@@ -332,4 +332,4 @@ npm run dev
 
 # License
 
-[GPL](https://github.com/bailicangdu/vue2-elm/blob/master/COPYING)
+[GPL](https://github.com/bailicangdu/vue2-elm/blob/master/COPYING) -->
