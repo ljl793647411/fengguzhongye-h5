@@ -525,9 +525,14 @@ p {
 }
 
 .swiper-slide {
+  width: 100%;
+  height: 186px;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
   img {
     max-width: 100%;
-    height: 8.695652rem;
+    height: 100%;
     // animation: show-car 0.5s;
     transition: left 0.6s, top 0.6s;
     transition-delay: 1s;
