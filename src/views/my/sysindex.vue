@@ -36,7 +36,7 @@
             <p>我的云库存</p>
           </div>-->
           <div>
-            <p style="color: #E9423A">{{taskcount.daiexaminecount}}</p>
+            <p style="color: #0081ff">{{taskcount.daiexaminecount}}</p>
             <p>待审核订单</p>
           </div>
         </div>
@@ -193,7 +193,7 @@ export default {
   width: 0.3rem;
   height: 0.3rem;
   border-radius: 50%;
-  background-color: #E9423A;
+  background-color: #0081ff;
   position: absolute;
   top: 0.45rem;
   right: -0.1rem;
@@ -227,7 +227,7 @@ export default {
     position: relative;
     overflow: hidden;
     .person-info {
-      background: #E9423A;
+      background: #0081ff;
       padding: 2.13rem 0;
 
       .message {

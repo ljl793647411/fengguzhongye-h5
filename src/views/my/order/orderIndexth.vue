@@ -84,7 +84,7 @@
                 <span
                   class="btn"
                   @click="wxpay(item.id,item.totalmoney)"
-                  style="background-color:#E9423A;color: #FFFFFF"
+                  style="background-color:#0081ff;color: #FFFFFF"
                 >去支付</span>
               </div>
               <div
@@ -92,13 +92,13 @@
                 @click="saomasend(item.id,item.ordertype)"
                 v-else-if="item.f_logistics==2&&agentype==2"
               >
-                <span class="btn" style="background-color:#E9423A;color: #FFFFFF">扫码发货</span>
+                <span class="btn" style="background-color:#0081ff;color: #FFFFFF">扫码发货</span>
               </div>
               <div class="checkOrder" v-else-if="item.f_logistics==3&&agentype==1">
                 <span class="btn" @click="goLogisticsDetails(item.couriernumber,item.kdurl)">查看物流</span>
                 <span
                   class="btn"
-                  style="background-color:#E9423A;color: #FFFFFF"
+                  style="background-color:#0081ff;color: #FFFFFF"
                   @click="confirmreceive(item.id)"
                 >确认收货</span>
               </div>
@@ -106,7 +106,7 @@
                 <span class="btn" @click="goLogisticsDetails(item.couriernumber,item.kdurl)">查看物流</span>
                 <span
                   class="btn"
-                  style="background-color:#E9423A;color: #FFFFFF"
+                  style="background-color:#0081ff;color: #FFFFFF"
                   @click="saomasend(item.id)"
                 >编辑发货</span>
               </div>
@@ -322,7 +322,7 @@ export default {
 <style lang="scss" scoped>
 .searchIcon {
   font-size: 1rem;
-  color: #e9423a;
+  color: #0081ff;
   position: absolute;
   top: 1.65rem;
   left: 0.15rem;
@@ -366,8 +366,8 @@ export default {
 }
 
 .active {
-  border-bottom: 2px solid #e9423a;
-  color: #e9423a !important;
+  border-bottom: 2px solid #0081ff;
+  color: #0081ff !important;
 }
 
 .itemList {

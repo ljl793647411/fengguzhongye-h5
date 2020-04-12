@@ -32,7 +32,7 @@
       <div class="flexGrow">
         <div>{{item.proname}}</div>
         <div class="a1">
-          <div style="color:#E9423A;">
+          <div style="color:#0081ff;">
             ￥{{item.protype==2?item.vipprice:item.proprice}}
             <s
               style="color:#666466;"
@@ -63,7 +63,7 @@
         <span>会员价:</span>
         <span>￥{{marketprice}}</span>
       </p>
-      <p style="color:#E9423A;" v-if="IsBuy">
+      <p style="color:#0081ff;" v-if="IsBuy">
         <span>代理价:</span>
         <span>￥{{sumprice}}</span>
       </p>
@@ -709,7 +709,7 @@ export default {
         line-height: 0.9rem;
         color: #ddd;
         font-size: 0.8rem;
-        background-color: #e9423a;
+        background-color: #0081ff;
         border-top-left-radius: 0.1rem;
         border-bottom-left-radius: 0.1rem;
         text-align: center;
@@ -759,7 +759,7 @@ export default {
   bottom: 0;
   left: 0;
   text-align: center;
-  background-color: #e9423a;
+  background-color: #0081ff;
   color: white;
   font-size: 0.608695rem;
 }

@@ -311,7 +311,7 @@ input {
   width: 100%;
   position: fixed;
   bottom: 0;
-  background-color: #e9423a;
+  background-color: #0081ff;
   font-size: 0.608rem;
   color: white;
 }

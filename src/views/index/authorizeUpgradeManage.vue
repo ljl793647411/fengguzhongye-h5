@@ -212,8 +212,8 @@
   }
 
   .active {
-    color: #E9423A;
-    border-bottom: #E9423A 0.1rem solid;
+    color: #0081ff;
+    border-bottom: #0081ff 0.1rem solid;
   }
 
   .waitItem {
@@ -251,18 +251,18 @@
           width: 3rem;
           height: 1rem;
           line-height: 1rem;
-          border: 0.05rem solid #E9423A;
+          border: 0.05rem solid #0081ff;
           border-radius: 0.2rem;
           text-align: center;
         }
 
         .suc {
-          background-color: #E9423A;
+          background-color: #0081ff;
           color: #fff;
         }
 
         .err {
-          color: #E9423A;
+          color: #0081ff;
         }
       }
     }

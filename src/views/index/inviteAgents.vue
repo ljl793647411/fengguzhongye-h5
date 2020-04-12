@@ -220,7 +220,7 @@ table {
   border-collapse: collapse;
   thead th {
     color: white;
-    background-color: #e9423a;
+    background-color: #0081ff;
     width: 25%;
     height: 1.391304rem;
   }
@@ -237,15 +237,15 @@ table {
   text-align: center;
   font-size: 0.608rem;
   border-radius: 0.3rem;
-  border: solid 0.1rem #e9423a;
+  border: solid 0.1rem #0081ff;
 }
 .newAgent {
-  background-color: #e9423a;
+  background-color: #0081ff;
   color: white;
   margin-top: 0.5rem;
 }
 .record {
-  color: #e9423a;
+  color: #0081ff;
 }
 
 .agentRank {

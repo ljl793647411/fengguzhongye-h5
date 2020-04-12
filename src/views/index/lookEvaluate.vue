@@ -245,7 +245,7 @@ export default {
 
     .active {
       color: white;
-      background-color: #e9423a;
+      background-color: #0081ff;
     }
   }
   .content {
@@ -272,7 +272,7 @@ export default {
   .footer {
     height: 1.5rem;
     width: 100%;
-    background-color: #e9423a;
+    background-color: #0081ff;
     text-align: center;
     line-height: 1.5rem;
     position: fixed;

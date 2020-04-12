@@ -4,7 +4,7 @@
       <div class="boxBottom" style="padding-top:0;">
         <div class="boxBB">
           <span style="font-size: 0.7rem;">提现到微信余额</span>
-          <span style="color: #E9423A;font-size: 0.8rem;">+10</span>
+          <span style="color: #0081ff;font-size: 0.8rem;">+10</span>
         </div>
         <div class="boxBB" style="color: #888888;font-size: 0.521rem;">
           <span>2019/09/21 15:32:00</span>
@@ -55,7 +55,7 @@ export default {};
   padding: 0.5rem;
   background-color: white;
   > p:nth-child(1) {
-    color: #e9423a;
+    color: #0081ff;
     font-size: 0.7rem;
     >span{
         vertical-align: middle;

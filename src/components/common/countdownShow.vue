@@ -54,7 +54,7 @@ export default {
  
 <style scoped>
 .bgco {
-  background-color: #e9423a !important;
+  background-color: #0081ff !important;
 }
 .btn-big {
   height: 1.73913rem;
@@ -62,6 +62,6 @@ export default {
   width: 80%;
 }
 .btn-color {
-  background-color: #e9423a;
+  background-color: #0081ff;
 }
 </style>

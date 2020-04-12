@@ -16,7 +16,7 @@
     <div class="statistics">
       <div>
         <p>余额</p>
-        <p style="color:#E9423A;padding-right: 1rem;">￥{{datainfo.yeprice}}</p>
+        <p style="color:#0081ff;padding-right: 1rem;">￥{{datainfo.yeprice}}</p>
       </div>
        <div>
         <p>待审核</p>
@@ -258,10 +258,10 @@ export default {
           width: 2.260869rem;
           height: 0.869565rem;
           line-height: 0.869565rem;
-          border: solid 0.05rem #e9423a;
+          border: solid 0.05rem #0081ff;
           border-radius: 0.1rem;
           text-align: center;
-          color: #e9423a;
+          color: #0081ff;
           font-size: 0.521739rem;
         }
       }
@@ -273,7 +273,7 @@ export default {
   .infoRight {
     font-size: 0.608rem;
     padding: 0.2rem 0.3rem;
-    background-color: #e9423a;
+    background-color: #0081ff;
     color: white;
     border-radius: 5px;
     margin-right: 0.5rem;
@@ -329,8 +329,8 @@ export default {
   }
 }
 .active {
-  border-bottom: 2px solid #e9423a;
-  color: #e9423a !important;
+  border-bottom: 2px solid #0081ff;
+  color: #0081ff !important;
 }
 .box {
   font-size: 0.608rem;
@@ -359,7 +359,7 @@ export default {
       > span:nth-child(2) {
         font-size: 0.8rem;
 
-        color: #e9423a;
+        color: #0081ff;
       }
     }
   }
@@ -376,13 +376,13 @@ export default {
     font-size: 0.521rem;
   }
   > span:nth-child(2) {
-    color: #e9423a;
+    color: #0081ff;
     font-size: 0.8rem;
   }
 }
 .footer {
   text-align: center;
-  color: #e9423a;
+  color: #0081ff;
   font-size: 0.521rem;
   margin-top: 0.5rem;
 }

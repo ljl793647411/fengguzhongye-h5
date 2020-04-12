@@ -153,9 +153,9 @@ export default {
     }
 
     .active {
-      color: #e9423a;
+      color: #0081ff;
       background-color: #fff5f4;
-      border: solid 1px #e9423a;
+      border: solid 1px #0081ff;
     }
   }
 

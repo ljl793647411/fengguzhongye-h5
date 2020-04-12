@@ -310,7 +310,7 @@ export default {
   line-height: 1.304rem;
   position: relative;
   top: -0.05rem;
-  background-color: #e9423a;
+  background-color: #0081ff;
   color: white;
   border-radius: 5px;
 }
@@ -324,9 +324,9 @@ export default {
   width: 12.695rem;
   height: 1.304rem;
   margin: 0 auto 0.5rem;
-  color: #e9423a;
+  color: #0081ff;
   display: flex;
-  border: solid 0.05rem #e9423a;
+  border: solid 0.05rem #0081ff;
   font-size: 0.608rem;
   border-radius: 0.2rem;
   .directly,
@@ -348,7 +348,7 @@ export default {
   }
 }
 .active {
-  background-color: #e9423a;
+  background-color: #0081ff;
   color: white;
 }
 
@@ -372,19 +372,19 @@ export default {
       width: 4rem;
       height: 4rem;
       border-radius: 50%;
-      border: 0.1rem solid #e9423a;
+      border: 0.1rem solid #0081ff;
       display: flex;
       flex-direction: column;
       align-items: center;
       span:nth-child(1) {
-        color: #e9423a;
+        color: #0081ff;
         font-size: 1.5rem;
         margin-top: 0.3rem;
         position: relative;
         top: -0.2rem;
       }
       span:nth-child(2) {
-        color: #e9423a;
+        color: #0081ff;
         font-size: 0.869rem;
         font-weight: bold;
         position: relative;
@@ -402,7 +402,7 @@ export default {
     position: absolute;
     bottom: 0.5rem;
     > span {
-      color: #e9423a;
+      color: #0081ff;
     }
   }
 }
@@ -410,7 +410,7 @@ export default {
   padding: 0 0.5rem;
   margin-top: 1rem;
   height: 1.304rem;
-  border-left: 0.5rem solid #e9423a;
+  border-left: 0.5rem solid #0081ff;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -422,8 +422,8 @@ export default {
     height: 1rem;
     text-align: center;
     font-size: 0.608rem;
-    color: #e9423a;
-    border: solid 0.05rem #e9423a;
+    color: #0081ff;
+    border: solid 0.05rem #0081ff;
     border-radius: 0.1rem;
   }
 }
@@ -467,8 +467,8 @@ export default {
       width: 2.2608rem;
       height: 0.869rem;
       font-size: 0.521rem;
-      color: #e9423a;
-      border: solid 0.05rem #e9423a;
+      color: #0081ff;
+      border: solid 0.05rem #0081ff;
       border-radius: 0.1rem;
       text-align: center;
     }
@@ -485,7 +485,7 @@ export default {
     text-align: right;
     .d {
       font-size: 0.782rem;
-      color: #e9423a;
+      color: #0081ff;
       font-weight: bold;
     }
     .e {
@@ -510,7 +510,7 @@ export default {
     font-size: 0.695652rem;
   }
   > span:nth-child(2) {
-    color: #e9423a;
+    color: #0081ff;
     font-size: 0.7826086rem;
     font-weight: bold;
   }

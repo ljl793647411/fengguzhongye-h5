@@ -56,7 +56,7 @@
   @import '../../style/mixin';
 
   .UrlActive{
-    color:  #E9423A !important;
+    color:  #0081ff !important;
   }
 
   #foot_guide {

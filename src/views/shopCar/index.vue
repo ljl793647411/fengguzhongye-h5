@@ -14,7 +14,7 @@
           <div class="flexGrow">
             <div>{{item.proname}}</div>
             <div class="a1">
-              <div style="color:#E9423A;">
+              <div style="color:#0081ff;">
                 ￥{{item.vipprice}}
                 <s style="color:#666466;margin-left:0.2rem;">￥{{item.marketprice}}</s>
               </div>
@@ -303,7 +303,7 @@ export default {
         line-height: 1.086956rem;
         color: white;
         font-size: 0.8rem;
-        background-color: #e9423a;
+        background-color: #0081ff;
         border-top-left-radius: 0.1rem;
         border-bottom-left-radius: 0.1rem;
         text-align: center;
@@ -327,7 +327,7 @@ export default {
         line-height: 1.086956rem;
         color: white;
         font-size: 0.9rem;
-        background-color: #e9423a;
+        background-color: #0081ff;
         border-top-right-radius: 0.1rem;
         border-bottom-right-radius: 0.1rem;
         text-align: center;
@@ -343,7 +343,7 @@ export default {
   border-radius: 0.1rem;
   color: white;
   text-align: center;
-  background-color: #e9423a !important;
+  background-color: #0081ff !important;
   padding: 0;
 }
 .closeBox {
@@ -366,7 +366,7 @@ export default {
     width: 100%;
     height: 1.92rem;
     font-size: 0.782608rem;
-    background: #e9423a;
+    background: #0081ff;
     color: white;
   }
 }

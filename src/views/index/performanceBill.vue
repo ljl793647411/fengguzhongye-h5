@@ -317,8 +317,8 @@
         width: 2.2608rem;
         height: 0.869rem;
         font-size: 0.521rem;
-        color: #e9423a;
-        border: solid 0.05rem #e9423a;
+        color: #0081ff;
+        border: solid 0.05rem #0081ff;
         border-radius: 0.1rem;
         text-align: center;
       }
@@ -339,7 +339,7 @@
         color: #9d9d9d;
 
         >span {
-          color: #e9423a;
+          color: #0081ff;
         }
       }
 
@@ -348,7 +348,7 @@
         color: #9d9d9d;
 
         >span {
-          color: #e9423a;
+          color: #0081ff;
         }
       }
     }

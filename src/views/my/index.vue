@@ -52,7 +52,7 @@
           </div>
           <div>
             <p
-              style="color: #E9423A"
+              style="color: #0081ff"
             >{{userInfo.levelid==5?"0":(userInfo.team_size?userInfo.team_size:"0")}}</p>
             <p>团队人数</p>
           </div>
@@ -173,7 +173,7 @@
           @click="goPage('/myRebate')"
           class="fun-item flexColumn"
         >
-          <svg class="icon iconSvg" aria-hidden="true" style="color:#E9423A;">
+          <svg class="icon iconSvg" aria-hidden="true" style="color:#0081ff;">
             <use xlink:href="#iconwode-yongjin" />
           </svg>
           <span>分销返佣</span>
@@ -593,7 +593,7 @@ export default {
     position: relative;
     overflow: hidden;
     .person-info {
-      background: #e9423a;
+      background: #0081ff;
       padding: 2.13rem 0;
 
       > div:nth-child(1) span {
@@ -631,7 +631,7 @@ export default {
             height: 1.304347rem;
             line-height: 1.304347rem;
             background-color: white;
-            color: #e9423a;
+            color: #0081ff;
             text-align: center;
             border-radius: 1.304347rem;
             margin: 0 auto 0.3rem;

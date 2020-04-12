@@ -150,7 +150,7 @@ export default {
     border-bottom: 1px solid #eeeeee;
     > p:nth-child(1) {
       > span:nth-child(1) {
-        color: #e9423a;
+        color: #0081ff;
         font-size: 1.2rem;
         vertical-align: middle;
       }
@@ -193,8 +193,8 @@ export default {
             padding: 0.1rem 0.4rem;
             font-size: 0.521rem;
             background-color: white;
-            border: solid 1px #e9423a;
-            color: #e9423a;
+            border: solid 1px #0081ff;
+            color: #0081ff;
           }
         }
         > p:nth-child(3),
@@ -216,13 +216,13 @@ export default {
   background-color: white;
   padding: 0.5rem 1rem;
   font-size: 0.782608rem;
-  color: #e9423a;
+  color: #0081ff;
   text-align: center;
   margin-top: 0.5rem;
   .aItem {
     width: 2rem;
     display: inline-block;
-    border-top: 0.05rem solid #e9423a;
+    border-top: 0.05rem solid #0081ff;
     vertical-align: middle;
     margin: 0.5rem 0;
   }
@@ -240,7 +240,7 @@ export default {
   width: 100%;
   position: fixed;
   bottom: 0;
-  background-color: #e9423a;
+  background-color: #0081ff;
   font-size: 0.608rem;
   color: white;
 }

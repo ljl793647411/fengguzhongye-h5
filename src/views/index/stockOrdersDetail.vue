@@ -444,7 +444,7 @@ export default {
         background-color: #FF9800;
     }
     >div:nth-child(2){
-        background-color: #E9423A;
+        background-color: #0081ff;
     }
 }
 </style>

@@ -144,7 +144,7 @@ export default {
   }
 }
 .active {
-  border-bottom: 2px solid #e9423a;
-  color: #e9423a !important;
+  border-bottom: 2px solid #0081ff;
+  color: #0081ff !important;
 }
 </style>

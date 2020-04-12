@@ -50,7 +50,7 @@
         <span>￥{{rebatedata.sumprice}}</span>
       </div>
     </div>
-    <p style="font-size:0.608rem;text-align:center;color:#E9423A;margin-top:0.5rem;" @click="getrebate(1)" >查看近三月</p>
+    <p style="font-size:0.608rem;text-align:center;color:#0081ff;margin-top:0.5rem;" @click="getrebate(1)" >查看近三月</p>
 
     <div class="detail" @click="lookdetail">查看明细</div>
   </div>
@@ -156,9 +156,9 @@ export default {
   width: 12.695rem;
   height: 1.304rem;
   margin: 0 auto 1rem;
-  color: #E9423A;
+  color: #0081ff;
   display: flex;
-  border: solid 0.05rem #E9423A;
+  border: solid 0.05rem #0081ff;
   font-size: 0.608rem;
   border-radius: 0.2rem;
   .directly,
@@ -180,7 +180,7 @@ export default {
   }
 }
 .active {
-  background-color: #E9423A;
+  background-color: #0081ff;
   color: white;
 }
 
@@ -202,16 +202,16 @@ export default {
       margin-left: 0.5rem;
       font-weight: bold;
       span {
-        color: #E9423A;
+        color: #0081ff;
         font-weight: bold;
       }
     }
     .statiTopRight {
       width: 2.82608rem;
       height: 0.86956rem;
-      color: #E9423A;
+      color: #0081ff;
       display: flex;
-      border: solid 0.05rem #E9423A;
+      border: solid 0.05rem #0081ff;
       font-size: 0.608rem;
       border-radius: 0.2rem;
       margin-right: 0.5rem;
@@ -255,7 +255,7 @@ export default {
         }
         > div:nth-child(1) {
           font-size: 1rem;
-          color: #E9423A;
+          color: #0081ff;
         }
       }
       .b {
@@ -270,7 +270,7 @@ export default {
     border-top: 0.02rem solid #f3f3f3;
     font-weight: bold;
     span {
-      color: #E9423A;
+      color: #0081ff;
       font-weight: bold;
     }
   }
@@ -280,7 +280,7 @@ export default {
   width: 100%;
   height: 1.913043rem;
   color: #fff;
-  background-color: #E9423A;
+  background-color: #0081ff;
   text-align: center;
   line-height: 1.913043rem;
   position: absolute;

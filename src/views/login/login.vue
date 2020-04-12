@@ -281,7 +281,7 @@ export default {
       width: 2.782608rem;
       height: 1rem;
       line-height: 1rem;
-      color: #e9423a;
+      color: #0081ff;
     }
   }
   .btn-big {
@@ -295,7 +295,7 @@ export default {
     border-radius: 0.17rem;
     padding: 0.34rem;
     font-size: 0.68rem;
-    background-color: #e9423a;
+    background-color: #0081ff;
   }
 
   .cell {

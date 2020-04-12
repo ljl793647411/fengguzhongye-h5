@@ -297,8 +297,8 @@ export default {
 }
 
 .active {
-  border-bottom: 2px solid #E9423A;
-  color: #E9423A !important;
+  border-bottom: 2px solid #0081ff;
+  color: #0081ff !important;
 }
 .aggregate {
   display: flex;
@@ -309,7 +309,7 @@ export default {
   font-size: 0.608696rem;
 
   > span:nth-child(2) {
-    color: #E9423A;
+    color: #0081ff;
   }
 }
 
@@ -330,7 +330,7 @@ export default {
 
       > div:nth-child(2) {
         text-align: center;
-        color: #E9423A;
+        color: #0081ff;
         // width: 3.478261rem;
         // height: 1.304348rem;
         // line-height: 1.304348rem;
@@ -410,7 +410,7 @@ export default {
         font-size: 0.608695rem;
 
         > div:nth-child(1) {
-          color: #E9423A;
+          color: #0081ff;
         }
         > div:nth-child(2) {
           span {
@@ -429,8 +429,8 @@ export default {
           > span:nth-child(2) {
             // width: 3.47826rem;
             border-radius: 0.1rem;
-            background-color: #E9423A;
-            border: solid 0.05rem #E9423A;
+            background-color: #0081ff;
+            border: solid 0.05rem #0081ff;
             color: white;
           }
         }

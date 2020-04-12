@@ -450,6 +450,6 @@ export default {
 }
 
 .btn-color {
-  background-color: #e9423a;
+  background-color: #0081ff;
 }
 </style>

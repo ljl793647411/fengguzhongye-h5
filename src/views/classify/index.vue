@@ -241,7 +241,7 @@ li {
 }
 .searchIcon{
   font-size: 1rem;
-  color: #E9423A;
+  color: #0081ff;
   position: absolute;
   top: 0.4rem;
   left: 0.15rem;
@@ -285,8 +285,8 @@ li {
     }
 
     .active {
-      color: #E9423A;
-      border-left: #E9423A solid 0.15rem;
+      color: #0081ff;
+      border-left: #0081ff solid 0.15rem;
     }
   }
 
@@ -325,7 +325,7 @@ li {
           > p:nth-child(2) {
             padding-top: 0.65rem;
             span {
-              color: #E9423A;
+              color: #0081ff;
               font-weight: bold;
 
             }
@@ -339,7 +339,7 @@ li {
         text-align: center;
         color: white;
         border-radius: 0.1rem;
-        background-color: #E9423A;
+        background-color: #0081ff;
         position: absolute;
         right: 0.3rem;
         bottom: 0.5rem;

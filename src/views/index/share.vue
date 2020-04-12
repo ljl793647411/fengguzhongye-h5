@@ -54,7 +54,7 @@ export default {};
       }
       > p:nth-child(2) {
         font-size: 0.521rem;
-        color: #e9423a;
+        color: #0081ff;
       }
       > p:nth-child(3) {
         font-size: 0.521rem;

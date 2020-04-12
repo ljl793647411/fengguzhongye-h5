@@ -84,13 +84,13 @@
               <s>￥{{proinfo.marketprice}}</s>
             </span>
           </div>
-          <span class="iconfont iconerror" style="color:#E9423A;" @click="close"></span>
+          <span class="iconfont iconerror" style="color:#0081ff;" @click="close"></span>
         </div>
         <div class="detail">
           <div class="flexBetween">
             <p style="font-size:0.695652rem">
               总价
-              <span style="color:#E9423A;font-size:0.608695rem;">{{proinfo.vipprice*pronum }}</span>
+              <span style="color:#0081ff;font-size:0.608695rem;">{{proinfo.vipprice*pronum }}</span>
             </p>
             <div class="flexCenter" style="touch-action: none;">
               <span @click="del">-</span>
@@ -674,7 +674,7 @@ export default {
     height: 1.391304rem;
     line-height: 1.391304rem;
     border-left: 0.2rem solid red;
-    color: #e9423a;
+    color: #0081ff;
     margin: 0.2rem 0;
     background-color: white;
     > span {
@@ -754,7 +754,7 @@ export default {
       font-size: 0.608696rem;
       height: 1.913043rem;
       line-height: 1.913043rem;
-      background-color: #e9423a;
+      background-color: #0081ff;
     }
   }
 
@@ -843,7 +843,7 @@ export default {
               line-height: 1.30434rem;
               color: #ddd;
               font-size: 0.8rem;
-              background-color: #e9423a;
+              background-color: #0081ff;
               border-top-left-radius: 0.1rem;
               border-bottom-left-radius: 0.1rem;
               text-align: center;
@@ -867,7 +867,7 @@ export default {
               line-height: 1.30434rem;
               color: #ddd;
               font-size: 0.9rem;
-              background-color: #e9423a;
+              background-color: #0081ff;
               border-top-right-radius: 0.1rem;
               border-bottom-right-radius: 0.1rem;
               text-align: center;
@@ -880,7 +880,7 @@ export default {
     .footer_2 {
       height: 1.913043rem;
       line-height: 1.913043rem;
-      background-color: #e9423a;
+      background-color: #0081ff;
       color: white;
       font-size: 0.608696rem;
       text-align: center;

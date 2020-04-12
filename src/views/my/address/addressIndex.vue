@@ -126,10 +126,10 @@ export default {
   left: 5%;
 }
 .btn-primary {
-  background-color: #e9423a;
+  background-color: #0081ff;
 }
 .btn-big-primary {
-  background-color: #e9423a;
+  background-color: #0081ff;
 }
 .big-container {
   background: white;

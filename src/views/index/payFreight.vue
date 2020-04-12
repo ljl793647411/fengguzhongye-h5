@@ -265,7 +265,7 @@ export default {
     line-height: 1.782608rem;
   }
   div:nth-child(1) {
-    background-color: #e9423a;
+    background-color: #0081ff;
   }
   div:nth-child(2) {
     background-color: #ff9800;

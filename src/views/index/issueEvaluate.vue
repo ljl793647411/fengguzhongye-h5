@@ -256,8 +256,8 @@ export default {
 
   .btn {
     border-radius: 0.6rem;
-    color: #e9423a;
-    border: 1px solid #e9423a;
+    color: #0081ff;
+    border: 1px solid #0081ff;
     background-color: white;
     margin: 0 0.5rem;
   }

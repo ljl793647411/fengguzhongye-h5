@@ -4,10 +4,10 @@
       <p>提现金额(元)</p>
       <div>
         <div>
-          <span style="color:#E9423A;font-size:0.9rem">￥</span>
-          <input style="color:#E9423A;" v-model="txprice" @change="changes()" type="text" placeholder="本次最多提现5000.00元" />
+          <span style="color:#0081ff;font-size:0.9rem">￥</span>
+          <input style="color:#0081ff;" v-model="txprice" @change="changes()" type="text" placeholder="本次最多提现5000.00元" />
         </div>
-        <span style="color:#E9423A;" @click="sum">全部</span>
+        <span style="color:#0081ff;" @click="sum">全部</span>
       </div>
     </div>
     <p style="font-size:0.608rem;padding-left:0.5rem;color:#888888;">账户余额￥{{yeprice}}</p>
@@ -123,14 +123,14 @@ export default {
   position: absolute;
   bottom: 0;
   > div:nth-child(1) {
-    color: #e9423a;
+    color: #0081ff;
     font-size: 0.521rem;
     padding: 0.5rem;
   }
   > div:nth-child(2) {
     padding: 0.3rem;
     text-align: center;
-    background-color: #e9423a;
+    background-color: #0081ff;
     color: white;
     font-size: 0.7rem;
   }

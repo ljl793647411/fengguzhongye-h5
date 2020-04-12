@@ -23,7 +23,7 @@
           <div class="a1">
             库存:&emsp;
             <span
-              style="color:#E9423A;font-size:0.782608rem;"
+              style="color:#0081ff;font-size:0.782608rem;"
             >{{item.stocknum==null?0:item.stocknum}}</span>
           </div>
         </div>
@@ -245,9 +245,9 @@ export default {
   width: 12.695rem;
   height: 1.304rem;
   margin: 0 auto 1rem;
-  color: #E9423A;
+  color: #0081ff;
   display: flex;
-  border: solid 0.05rem #E9423A;
+  border: solid 0.05rem #0081ff;
   font-size: 0.608rem;
   border-radius: 0.2rem;
   .directly,
@@ -262,7 +262,7 @@ export default {
   }
 }
 .active {
-  background-color: #E9423A;
+  background-color: #0081ff;
   color: white;
 }
 
@@ -270,7 +270,7 @@ export default {
   padding: 0 0.5rem;
   margin-top: 1rem;
   height: 1.304rem;
-  border-left: 0.5rem solid #E9423A;
+  border-left: 0.5rem solid #0081ff;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -281,8 +281,8 @@ export default {
     padding: 0.1rem 0.3rem;
     text-align: center;
     font-size: 0.608rem;
-    color: #E9423A;
-    border: solid 0.05rem #E9423A;
+    color: #0081ff;
+    border: solid 0.05rem #0081ff;
     border-radius: 0.1rem;
   }
 }
@@ -299,7 +299,7 @@ export default {
   font-size: 0.782608rem;
 }
 .pick {
-  background-color: #E9423A;
+  background-color: #0081ff;
   position: fixed;
   bottom: 2rem;
 }
@@ -380,8 +380,8 @@ export default {
       width: 2.2608rem;
       height: 0.869rem;
       font-size: 0.521rem;
-      color: #E9423A;
-      border: solid 0.05rem #E9423A;
+      color: #0081ff;
+      border: solid 0.05rem #0081ff;
       border-radius: 0.1rem;
       text-align: center;
     }
@@ -394,7 +394,7 @@ export default {
         margin-right: 0.5rem;
 
         > span {
-          color: #E9423A;
+          color: #0081ff;
           font-weight: bold;
         }
       }
@@ -413,7 +413,7 @@ export default {
     color: #9d9d9d;
   }
   > span:nth-child(2) {
-    color: #E9423A;
+    color: #0081ff;
     font-weight: bold;
   }
 }

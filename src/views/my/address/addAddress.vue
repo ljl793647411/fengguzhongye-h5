@@ -34,7 +34,7 @@
     </div>
     <div style="text-align:right;width:100%;padding:0.2rem 0.43rem;">
       <button class="btn" @click="clearaddress">清空</button>
-      <button class="btn" style="background-color:#E9423A;" @click="getaddresszhineng">智能填写</button>
+      <button class="btn" style="background-color:#0081ff;" @click="getaddresszhineng">智能填写</button>
     </div>
     <button @click="deleteAddress" v-if="info.handleType=='edit'" class="btn-big btn-big-error">删除地址</button>
 
@@ -347,7 +347,7 @@ export default {
   margin-top: 0.85rem;
 }
 .btn-big-error {
-  background-color: #e9423a;
+  background-color: #0081ff;
 }
 .container {
   padding: 0 0 1.5rem 0;
@@ -381,7 +381,7 @@ export default {
 .footer {
   height: 1.5rem;
   width: 100%;
-  background-color: #e9423a;
+  background-color: #0081ff;
   text-align: center;
   line-height: 1.5rem;
   position: fixed;

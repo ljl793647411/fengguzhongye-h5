@@ -54,7 +54,7 @@
       </div>
     </div>
     <p v-if="is_load"
-      style="font-size:0.608rem;color:#E9423A;text-align:center;margin-top:0.5rem;"
+      style="font-size:0.608rem;color:#0081ff;text-align:center;margin-top:0.5rem;"
       @click="MoreMonth()"
     >查看近三月</p>
     <!--
@@ -181,9 +181,9 @@ export default {
   height: 1.304rem;
   margin: 0 auto 1rem;
 
-  color: #e9423a;
+  color: #0081ff;
   display: flex;
-  border: solid 0.05rem #e9423a;
+  border: solid 0.05rem #0081ff;
   font-size: 0.608rem;
   border-radius: 0.2rem;
   .directly,
@@ -198,7 +198,7 @@ export default {
   }
 }
 .active {
-  background-color: #e9423a;
+  background-color: #0081ff;
   color: white;
 }
 
@@ -220,16 +220,16 @@ export default {
       margin-left: 0.5rem;
       font-weight: bold;
       span {
-        color: #e9423a;
+        color: #0081ff;
         font-weight: bold;
       }
     }
     .statiTopRight {
       width: 2.82608rem;
       height: 0.86956rem;
-      color: #e9423a;
+      color: #0081ff;
       display: flex;
-      border: solid 0.05rem #e9423a;
+      border: solid 0.05rem #0081ff;
       font-size: 0.608rem;
       border-radius: 0.2rem;
       margin-right: 0.5rem;
@@ -270,7 +270,7 @@ export default {
         }
         > div:nth-child(1) {
           font-size: 1rem;
-          color: #e9423a;
+          color: #0081ff;
         }
       }
       .b {
@@ -287,7 +287,7 @@ export default {
   font-size: 0.68rem;
   color: #9d9d9d;
   span {
-    color: #e9423a;
+    color: #0081ff;
     font-weight: bold;
   }
 }
@@ -296,7 +296,7 @@ export default {
   width: 100%;
   height: 1.913043rem;
   color: #fff;
-  background-color: #e9423a;
+  background-color: #0081ff;
   text-align: center;
   line-height: 1.913043rem;
   position: absolute;

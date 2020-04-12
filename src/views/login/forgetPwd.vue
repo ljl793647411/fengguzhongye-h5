@@ -167,11 +167,11 @@ export default {
 }
 
 .btn {
-  background-color: #E9423A;
+  background-color: #0081ff;
   padding: 0.2rem 0.2rem;
 }
 .btn-big {
-  background-color: #E9423A;
+  background-color: #0081ff;
 }
 .container {
   width: 90%;
@@ -184,7 +184,7 @@ padding-top: 1rem;
       width: 20%;
       height: 1rem;
       line-height: 1rem;
-      color: #E9423A;
+      color: #0081ff;
     }
   }
   .cell {
@@ -197,7 +197,7 @@ padding-top: 1rem;
       margin-right: 0.43rem;
       margin-left: 0.43rem;
       width: 1rem;
-      color: #E9423A;
+      color: #0081ff;
     }
     input {
       // flex: 1;
