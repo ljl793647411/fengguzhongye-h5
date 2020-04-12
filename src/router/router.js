@@ -135,7 +135,7 @@ export default [{
       path: '/mallIndex',
       component: mallIndex,
       meta: {
-        title: '云玛社交新零售分销系统',
+        title: '丰谷种业',
         auth: false
       }
     },
